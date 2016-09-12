@@ -1,4 +1,4 @@
-## Variables
+## **Variables**
 
 Assign a variable like so:
 
@@ -23,3 +23,19 @@ Variable Types include:
 * Integers
 * Strings
 * Arrays
+
+
+## **Conditionals**
+Expressions used in python:
+
+```
+* if 5 == 5:
+	return True
+  else:
+  	return "What?"
+
+* if string.startswith(z):
+	return "ZZZZZZZ"
+  elif string.startswith(w):
+  	return "But of course"
+```
