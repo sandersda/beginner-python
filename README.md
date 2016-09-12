@@ -38,4 +38,12 @@ Expressions used in python:
 	return "ZZZZZZZ"
   elif string.startswith(w):
   	return "But of course"
+
+* if array[0] == 5
+	return "Five is a magical number"
+  else:
+  	return "You Suck"
+
 ```
+
+Examples of branching in python are:
