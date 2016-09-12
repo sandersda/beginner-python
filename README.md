@@ -1,24 +1,7 @@
-# beginner-python
+## Variables
 
-## Grocery List
-
-* Apples
-* Slaves
-* Apple Jews
-* Gas
-* Red Band
-* Black Cloth
-
-This is `a variable name`.
+Assign a variable like so:
 
 ```
-$ python README.md
-
-```
-
-```
-def my_function(str):
-	return str
-
-my_function("taber sucks")
+x = 5
 ```
