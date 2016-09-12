@@ -39,11 +39,36 @@ Expressions used in python:
   elif string.startswith(w):
   	return "But of course"
 
-* if array[0] == 5
+* if array[0] == 5:
 	return "Five is a magical number"
   else:
   	return "You Suck"
 
 ```
 
-Examples of branching in python are:
+an example of branching in python is:
+
+```
+x = rawinput()
+
+	if x == "Taber Sucks":
+		return "So True"
+	elif x == "David Sucks":
+		return "Nahnahnahnahnahnah"
+	else:
+		return "You're too nice"
+```
+
+## **Functions**
+
+An example of a function in python:
+
+```
+def John_is_cool(str):
+	if str == "John is cool":
+		return "Yeahhhhh"
+	else:
+		return "Comeahhhhhhhnnnn"
+
+John_is_cool("Taber is cool") # Expects Comeahhhhhhhhhhn
+```
