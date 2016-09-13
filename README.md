@@ -71,4 +71,5 @@ def John_is_cool(str):
 		return "Comeahhhhhhhnnnn"
 
 John_is_cool("Taber is cool") # Expects Comeahhhhhhhhhhn
+John_is_cool("John is cool") # Expects Yeahhhhh
 ```
